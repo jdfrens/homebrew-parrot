@@ -1,5 +1,5 @@
 Homebrew tends to stay with stable versions of
-(Parrot)[https://www.parrot.org/] (if it updates it at all), so I've
+[Parrot](https://www.parrot.org/) (if it updates it at all), so I've
 created this homebrew tap to stay up-to-date and also update with
 developer versions as well.
 
