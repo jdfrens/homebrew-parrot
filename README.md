@@ -13,4 +13,4 @@ You only need to do this once.
 
 To install parrot:
 
-    brew install jdfrens/parrot/parrot
+    brew install jdfrens/parrot/parrot-dev
