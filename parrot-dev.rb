@@ -2,8 +2,8 @@ require 'formula'
 
 class ParrotDev < Formula
   head 'https://github.com/parrot/parrot.git'
-  url 'ftp://ftp.parrot.org/pub/parrot/releases/devel/4.4.0/parrot-4.4.0.tar.bz2'
-  sha256 '348ce13fc136afc74a7b50b094f64d8cb00f83f0cd3d59acc6fa4e63c824fa4d'
+  url 'ftp://ftp.parrot.org/pub/parrot/releases/devel/4.5.0/parrot-4.5.0.tar.bz2'
+  sha256 '74996076eb9dbe0f2442e0ae9c0cb5c3e9d5f49a266368eee01f4ab30c6d2808'
   homepage 'http://www.parrot.org/'
 
   depends_on 'gmp' => :optional
